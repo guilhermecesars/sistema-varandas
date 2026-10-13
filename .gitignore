@@ -1,0 +1,18 @@
+# Build
+target/
+out/
+bin/
+*.class
+dependency-reduced-pom.xml
+
+# Banco de dados e dados de clientes (nunca versionar)
+*.db
+/db/
+/arquivos/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
