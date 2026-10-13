@@ -11,6 +11,12 @@ cadastro de clientes, montagem do pedido (marmitas, pratos e tamanhos), forma de
 pagamento e um **relatório do dia** com o total faturado. Nasceu de uma necessidade
 real de um cliente e virou meu principal projeto de estudo em Java.
 
+## 📸 Telas
+
+| Início | Novo pedido | Relatório do dia |
+| :----: | :---------: | :--------------: |
+| ![Tela principal](docs/screenshots/tela-principal.png) | ![Novo pedido](docs/screenshots/novo-pedido.png) | ![Relatório do dia](docs/screenshots/relatorio-do-dia.png) |
+
 ## ✨ Funcionalidades
 
 - 🧾 **Novo pedido** com cliente, itens (marmitas/pratos), tamanho e forma de pagamento
